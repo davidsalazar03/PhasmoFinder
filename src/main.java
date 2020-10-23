@@ -118,6 +118,7 @@ import java.util.Scanner;
          System.out.println("---------------------------------------------------");
          System.out.println("Caso não haja evidências que não possuis, insere: 17");
          System.out.println("---------------------------------------------------");
+         System.out.println("---------------------------------------------------");
          Scanner answw = new Scanner(System.in);
          int nev = Integer.parseInt(answw.next());
          if (nev == 17){
