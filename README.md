@@ -1,0 +1,1 @@
+Simple tool to use while playing the game Phasmophobia. Use PhasmoFinder during your playthrough to filter out which ghosts you may be dealing with based on the evidences you found (and also the ones you're sure are not present in the location).
